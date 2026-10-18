@@ -2,7 +2,7 @@
 
 ![DSA Roadmap](https://img.shields.io/badge/DSA-Learning_Path-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/your-username/dsa-learning-path?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/terminalkid-afk/dsa-learning-path?style=for-the-badge)
 
 Welcome to the **Master DSA Learning Path**! This isn't just a collection of code—it's a comprehensive, student-centric course designed to take you from a complete beginner to a DSA pro. 
 
@@ -42,7 +42,7 @@ Follow this sequence to build your knowledge from the ground up:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/dsa-learning-path.git
+git clone https://github.com/terminalkid-afk/dsa-learning-path.git
 cd dsa-learning-path
 ```
 
